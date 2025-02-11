@@ -23,7 +23,7 @@ Rebuild scratch-blocks
 
 ```bash
 cd scratch-blocks
-npm run build
+npm run prepublish
 ```
 
 Restart the Project
@@ -33,7 +33,7 @@ cd scratch-gui
 npm start
 ```
 
-## 5️⃣ Create a `.gitignore` File**
+## 4️⃣ Create a `.gitignore` File**
 ```bash
 touch .gitignore
 ```
