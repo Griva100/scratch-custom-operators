@@ -1,0 +1,9 @@
+node_modules/
+scratch-gui/node_modules/
+scratch-vm/node_modules/
+scratch-blocks/node_modules/
+scratch-gui/build/
+scratch-vm/build/
+scratch-blocks/build/
+.cache/
+*.log
