@@ -15,8 +15,6 @@ Copy the modified files into the corresponding directories:
 ```bash
 cp modified-files/scratch-blocks/blocks_vertical/operators.js scratch-blocks/blocks_vertical/
 cp modified-files/scratch-vm/src/blocks/scratch3_operators.js scratch-vm/src/blocks/
-cp modified-files/scratch-gui/src/lib/libraries/extensions/index.jsx scratch-gui/src/lib/libraries/extensions/
-cp modified-files/scratch-gui/src/containers/extension-library.jsx scratch-gui/src/containers/
 ```
 ## 3️⃣ Build & Run
 Rebuild scratch-blocks
